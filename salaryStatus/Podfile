@@ -1,0 +1,17 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'salaryStatus' do
+pod 'AFNetworking'
+pod 'SDWebImage+ExtensionSupport', '~> 3.7.1.2'
+pod 'MJRefresh'
+pod 'IQKeyboardManager', '~> 5.0.7'
+pod 'MJExtension'
+pod "SVProgressHUD-0.8.1"
+pod 'Masonry'
+
+pod 'UMCCommon'
+pod 'UMCPush'
+#pod 'UMCSecurityPlugins'
+
+end

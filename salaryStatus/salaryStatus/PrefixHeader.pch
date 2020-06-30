@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  salaryStatus
+//
+//  Created by 李晓满 on 2019/1/25.
+//  Copyright © 2019年 李晓满. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "LxmHeader.h"
+
+
+#endif /* PrefixHeader_pch */
